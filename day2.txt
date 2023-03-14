@@ -22,4 +22,4 @@ Properties of the window object cannot be accessed by the document object.
 syntax:
  window.propertyname;
 example:
- window.innerHeight : will return the height of the content area of the brows 
+ window.innerHeight : will return the height of the content area of the browser.
